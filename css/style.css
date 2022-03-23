@@ -444,9 +444,7 @@ font-size:1.5rem;
     text-transform: none;
     background:none;
 }
-::placeholder{
-    color:rgba(255, 255, 255, 0.39);
-}
+
 .blogs .box-container{
 
     display: grid;
